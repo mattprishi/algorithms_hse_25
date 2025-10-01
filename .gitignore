@@ -1,0 +1,13 @@
+.pytest_cache/
+__pycache__/
+.DS_Store
+.venv/
+venv/
+.vscode/
+.idea/
+.pytest_cache/
+__pycache__/
+.DS_Store
+.venv/
+.vscode/
+.idea/
